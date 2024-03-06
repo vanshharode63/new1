@@ -7,4 +7,3 @@ WORKDIR C:\Users\vansh.harode\maven
 # Expose port 80 (default port for HTTP)
 EXPOSE 8000
 
-CMD [ "HTML","index.html","8000" ]
